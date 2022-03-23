@@ -3,11 +3,11 @@ Skeet is game that simulates skeet shooting. On the left side of the screen, cla
 
 This version it is based on the Disney movie: Wall·E. Protect Eva from enemy robots by shooting at them trash cans.
 
-Targets
-Eva ( Safe Target ) = -10 points
-Green robot ( Bonus Target ) = 15 points
-Pink robot ( Standart Target ) = 1 point
-White robot ( Strong Target ) = 7 points ( 3 lives, 1 point for the first two lives, 5 points for the last live )
+Targets:
+Eva ( Safe Target ) = -10 points.
+Green robot ( Bonus Target ) = 15 points.
+Pink robot ( Standart Target ) = 1 point.
+White robot ( Strong Target ) = 7 points ( 3 lives, 1 point for the first two lives, 5 points for the last live ).
 
 ## Getting Started
 ---
